@@ -4,12 +4,14 @@ I'm a fourth year PhD Candidate in [Biomedical and Health Informatics at the Uni
 
 When I'm not working, I love to hike, travel, and cook new recipes. I also have a plant addiction and have a small rainforest in my PNW home. 
 
+[Find me on LinkedIn] (https://www.linkedin.com/in/laurenesnyder/)  
 
 
 ```markdown
 ![Image](headshotLES.jpg)
 
 [Find me on LinkedIn] (https://www.linkedin.com/in/laurenesnyder/)  
+
 ```
 
 
