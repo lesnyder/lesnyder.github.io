@@ -4,14 +4,12 @@ I'm a fourth year PhD Candidate in [Biomedical and Health Informatics at the Uni
 
 When I'm not working, I love to hike, travel, and cook new recipes. I also have a plant addiction and have a small rainforest in my PNW home. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 ![Image](headshotLES.jpg)
 
-[Find me on LinkedIn](https://www.linkedin.com/in/laurenesnyder/)  
+[Find me on LinkedIn] (https://www.linkedin.com/in/laurenesnyder/)  
 ```
 
 
